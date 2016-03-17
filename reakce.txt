@@ -1,0 +1,52 @@
+1.68157824086e-12	e-	H	=>	e-	H+	e-	// hydhel
+9.80532939074e-13	e-	H	=>	H-			// ?  uprava 11 -> 13
+1.044057E-13		e-	H+	=>	H			// ?
+
+3.52443487384e-13	e-	H2 	=>	e-	H2+	e-	// hydhel
+2.80355175151e-11	e-	H2	=>	e-	H	H	// hydhel
+7.92231643578e-15	e-	H2	=>	e-	H+	H	e-	// hydhel
+1.2905985936659e-14	e-	H2	=>	H	H-		// amjuel; h2vib 1e-14
+1.13454751781e-09	e-	H2+	=>	e-	H+	H	// hydhel
+4.98568926217e-14	e-	H2+	=>	e-	H+	H+	e-	// hydhel
+
+2e-09				H2+	H2	=>	H3+	H			// souhrn KFPP 300K 
+1.250989258568e-09	H-	H	=>	H2	e-	// 
+3.72824460748e-11	H2+	H-	=>	H3+	e-		// 
+4.7402597e-32		H	H	H	=>	H	H2	//
+8.829495e-32		H+	H	H	=>	H+	H2	//
+1.3165924e-31		H+	H	H	=>	H	H2+	//
+
+2.28437165604e-09	e-	H-	=>	e-	H	e-	// hydhel
+2.19505716509e-13	e-	H-	=>	e-	H+	e-	e-	// hydhel
+
+3.07651346263e-09	H+	H-	=>	H2+	e-		// 
+2.49719813561e-09	e-	H3+	=>	e-	H2+	H	//
+7.67139665679e-12	e-	H3+	=>	e-	H+	H	H	// hydhel
+1.89138816581e-08	e-	H3+	=>	H	H	H		// hydhel
+1.4021137224e-14	e-	He	=>	e-	He+	e-	// hydhel
+
+
+1.5e-13				He+	H2	=>	H+	H	He	// souhrn KFPP 78K
+1.24e-9				Ar	H2+	=>	ArH+	H	// souhrn KFPP 298K
+9.5e-10				ArH+	H2	=>	H3+	Ar	// souhrn KFPP 80K
+3.99553552261e-12	e-	Ar	=>	Ar+	e-	e-	// Phelp
+7.2e-10				Ar+	H2	=>	ArH+	H	// souhrn KFPP 80K
+1.5e-13				He+	H2	=>	H+	H	He	// souhrn KFPP 78K
+
+1e-31				He+	He	He	=>	He2+	He	//
+1e-13				He+	H2	=>	H+	He	H	//
+2e-10				He2+	Ar	=>	Ar+	He	He	//
+3e-29				H+	H2	He	=>	H3+	He	//
+3e-29				H+	H2	H2	=>	H3+	H2	//
+9e-32				H+	He	He	=>	HeH+	He	//
+1.5e-9				HeH+	H2	=>	H3+	He	//
+
+4.54e-7				H-	H3+	=>	H2	H2	// KIDA
+4.54e-7				H-	He+	=>	H	He	// KIDA
+4.54e-7				H-	He2+	=>	H	He	He	// KIDA
+
+1.22673420181e-14	e-	He	=>	e-	He(1s2s)	// hydhel
+5e-9				He(1s2s)	He(1s2s)	=>	He2+	e-	// Table A1, Petr
+7e-11				He(1s2s)	Ar	=>	Ar+	He	e-	// Table A1, Petr
+2.86e-11			He(1s2s)	H2	=>	H2+	He	e-	// Table A1, Petr
+3.2e-12				He(1s2s)	H2	=>	HeH+	H	e-	// Table A1, Petr
