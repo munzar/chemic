@@ -1,3 +1,6 @@
+0	H	=>	H2wall		// difuze na stenu
+1e-5			H2wall H2wall	=> H2	//
+
 1.68157824086e-12	e-	H	=>	e-	H+	e-	// hydhel
 9.80532939074e-13	e-	H	=>	H-			// ?  uprava 11 -> 13
 1.044057E-13		e-	H+	=>	H			// ?
@@ -50,3 +53,13 @@
 7e-11				He(1s2s)	Ar	=>	Ar+	He	e-	// Table A1, Petr
 2.86e-11			He(1s2s)	H2	=>	H2+	He	e-	// Table A1, Petr
 3.2e-12				He(1s2s)	H2	=>	HeH+	H	e-	// Table A1, Petr
+
+5e-9				He(1s2s)	He(1s2s)	=>	He+	He	e-	// Petr
+
+
+1e-08			e-	He(1s2s)	=>	e-	He+	e-	// odhad z hydhel, dopocitat lepe
+
+
+
+
+
